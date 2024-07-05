@@ -958,7 +958,7 @@ class CreditsPage(BG):
         ("some resources are made with these generators below:", 22, "white"),
         ] + [(t, 26, "white") for t in (
             "Pixel Planet Generator by deep-fold.itch.io",
-            "jsfxr (sound)"
+            "jsfxr (sound)",
             "TuneFlow (music)",
             "Layer AI (icon)"
             )] + \
